@@ -4,7 +4,7 @@
 
 ## Make yourself at home!
 
-- 💻 I'm currently working with Microservices using Spring Boot, Swagger and NoSQL;
+- 💻 I'm currently working with Microservices using Spring Boot, OpenAPI and NoSQL;
 - 🤓 I'm interested in learning Golang;
 
 <div align="center">
